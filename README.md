@@ -15,6 +15,10 @@ Sheet 1 contains ROC curve and statistics of the 3 main Machine Learning Techniq
 
 Sheet 2 contains statistics comparison deriving why the 3 techniques were used.
 
+All_in_one.py:
+
+Contains the complete code for the three algorithms implemented.
+
 Language Used: Python.
 
 Libraries Used: Scikit-learn, Pandas.
